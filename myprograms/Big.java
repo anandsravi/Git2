@@ -6,6 +6,10 @@ public class Big {
 		// TODO Auto-generated method stub
                System.out.println("****8"); 
 		System.out.println("$$$$$");		
+		int a=3;
+		int b=10;
+		int z=a*b;
+		System.out.println(z);
 	}
 
 }
