@@ -8,8 +8,11 @@ public class Big {
 		System.out.println("$$$$$");		
 		int a=3;
 		int b=10;
+		int c=40;
+		int E =b/c;
 		int z=a*b;
 		System.out.println(z);
+		System.out.println(E);
 	}
 
 }
