@@ -9,7 +9,9 @@ public class Big {
 		int a=3;
 		int b=10;
 		int z=a*b;
+		int d=b-a;
 		System.out.println(z);
+		System.out.println(b);
 	}
 
 }
